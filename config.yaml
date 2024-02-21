@@ -1,0 +1,10 @@
+log:
+  level: debug
+  disable_sentry: true
+
+bot:
+  api_token:
+  api_url: https://api.telegram.org/bot
+  port: 3000
+  channel: https://t.me/infoarmyofficial
+  photo: https://imgur.com/a/b9djr6W
